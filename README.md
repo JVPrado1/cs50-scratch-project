@@ -11,11 +11,11 @@ This interactive game includes:
 
 ## 🛠️ Key Features  
 This Scratch project offers a Pokémon-themed experience, including:  
-1. **Interactive Start**: The user clicks a button to start the game, initiating the experience.  
-2. **Professor Oak's Introduction**: Professor Oak appears to introduce the world of Pokémon and set the scene.  
-3. **Starter Pokémon Showcase**: After the introduction, Professor Carvalho presents several Pokéballs, revealing three starter Pokémon.  
-4. **Evolution Interaction**: Users can interact with the starter Pokémon to discover and explore their evolutions.  
-5. **Final Screen**: After selecting a Pokémon, the game displays a final screen featuring the chosen Pokémon to conclude the experience.  
+- **Interactive Start**: The user clicks a button to start the game, initiating the experience.  
+- **Professor Oak's Introduction**: Professor Oak appears to introduce the world of Pokémon and set the scene.  
+- **Starter Pokémon Showcase**: After the introduction, Professor Carvalho presents several Pokéballs, revealing three starter Pokémon.  
+- **Evolution Interaction**: Users can interact with the starter Pokémon to discover and explore their evolutions.  
+- **Final Screen**: After selecting a Pokémon, the game displays a final screen featuring the chosen Pokémon to conclude the experience.  
 
 ## 📁 Repository Structure  
 - **`game.sb3`**: Scratch project file.  

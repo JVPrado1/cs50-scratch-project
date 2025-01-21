@@ -1,4 +1,5 @@
-# Scratch Game Project - CS50x  
+# Scratch Game Project - CS50x
+## Pokémon - I Choose You!
 
 ## 🚀 About the Project  
 This interactive game includes:  
